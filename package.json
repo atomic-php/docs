@@ -1,5 +1,5 @@
 {
-  "name": "atomic-php-docs",
+  "name": "@atomic-php/docs",
   "private": true,
   "version": "0.1.0",
   "description": "Documentation website for Atomic PHP (VitePress)",
@@ -12,4 +12,3 @@
     "vitepress": "^1.3.0"
   }
 }
-
