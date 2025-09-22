@@ -2,6 +2,7 @@
   "name": "@atomic-php/docs",
   "private": true,
   "version": "0.1.0",
+  "type": "module",
   "description": "Documentation website for Atomic PHP (VitePress)",
   "scripts": {
     "dev": "vitepress dev",
